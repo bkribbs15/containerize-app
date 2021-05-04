@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Project for containerization",
   "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "test": "test",
     "start": "node server.js",
