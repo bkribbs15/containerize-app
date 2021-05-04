@@ -5,9 +5,6 @@ Containerize App
 
 This repo is used to practice conatinerizing applications built using NodeJS.
 
-```
-CODE SAMPLE
-```
 <h2 align="Left">
 Setup
 </h2>
