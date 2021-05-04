@@ -3,13 +3,7 @@
 Containerize App
 </h1>
 
-<p align="left">
-    ## ICONS
-</p>
-
-## Repo Title
-
-REPO DESCIPTION
+This repo is used to practice conatinerizing applications built using NodeJS.
 
 ```
 CODE SAMPLE
