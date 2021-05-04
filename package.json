@@ -1,0 +1,11 @@
+{
+  "name": "containerize-app",
+  "version": "1.0.0",
+  "description": "Project for containerization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bryan Kribbs",
+  "license": "ISC"
+}
